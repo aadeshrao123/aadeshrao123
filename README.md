@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **passionate game developers**
+- 👯 I’m looking to collaborate on **Metaverse Projects**
 
 - 💬 Ask me about **Game Development**
 
