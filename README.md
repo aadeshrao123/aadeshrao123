@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Real Estate Metaverse**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I use C++ and Blueprints for Game Development
 
 - 👯 I’m looking to collaborate on **Metaverse Projects**
 
