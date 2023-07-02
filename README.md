@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Game Developer using Unreal Engine</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d4d418f93c40e1b51b7548b5dc4c00d7890c8a8c&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Real Estate Metaverse**
+- 🔭 I’m currently working on a Story based game**The Last Sentient**
 
 - 🌱 I use C++ and Blueprints for Game Development in Unreal Engine
 
-- 👯 I’m looking to collaborate on **Metaverse Projects**
+- 👯 I’m looking to collaborate on **Any Game Dev Projects**
 
 - 💬 Ask me about **Game Development**
 
