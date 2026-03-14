@@ -10,10 +10,6 @@
 
 **Jiggi** — A Factorio/Satisfactory-style factory automation game built with Unreal Engine 5. Mass Entity Framework (ECS) powering 100k+ entities, conveyor logistics, power grids, manufacturing chains, and multiplayer with dedicated server support.
 
-## Shipped
-
-**[Radiant Arena](https://store.epicgames.com/en-US/p/radiantrealm-d45753)** — Competitive arena game on the Epic Games Store. Built the core multiplayer infrastructure: EOS matchmaking, dedicated servers, GAS ability networking, client-side prediction, and anti-cheat.
-
 ## What I Do
 
 - **Gameplay Systems** — C++ gameplay programming, GAS abilities, combat, movement, locomotion
