@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋, I'm Aadesh Yadav</h1>
-<h3 align="center">A passionate Game Developer using Unreal Engine</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d4d418f93c40e1b51b7548b5dc4c00d7890c8a8c&rid=giphy.gif&ct=g">
+# Hey, I'm Aadesh Yadav
 
-- 🔭 I’m currently working on a Story based game **The Last Sentient**
+**Lead Unreal Engine Developer** building games, tools, and open source infrastructure for game devs.
 
-- 🌱 I use C++ and Blueprints for Game Development in Unreal Engine
+5+ years of professional Unreal Engine experience. Currently Lead Developer at **Vaporware Games**. Top Rated Plus on Upwork with 200+ completed projects and 100% job success.
 
-- 👯 I’m looking to collaborate on **Any Game Dev Projects**
+## What I'm Working On
 
-- 💬 Ask me about **Game Development**
+**[UnrealMCP](https://github.com/aadeshrao123/Unreal-MCP)** — Open source MCP bridge that connects AI coding assistants (Claude, Cursor, Gemini, VS Code, etc.) to the Unreal Engine 5 editor. 100+ tools for materials, blueprints, actors, data tables, profiling, and more. Available on [PyPI](https://pypi.org/project/unrealmcp/).
 
+**Jiggi** — A Factorio/Satisfactory-style factory automation game built with Unreal Engine 5. Mass Entity Framework (ECS) powering 100k+ entities, conveyor logistics, power grids, manufacturing chains, and multiplayer with dedicated server support.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## Shipped
+
+**[Radiant Arena](https://store.epicgames.com/en-US/p/radiantrealm-d45753)** — Competitive arena game on the Epic Games Store. Built the core multiplayer infrastructure: EOS matchmaking, dedicated servers, GAS ability networking, client-side prediction, and anti-cheat.
+
+## What I Do
+
+- **Gameplay Systems** — C++ gameplay programming, GAS abilities, combat, movement, locomotion
+- **Multiplayer** — Dedicated servers, replication, prediction, reconciliation, EOS integration
+- **High-Performance ECS** — Mass Entity Framework, 100k+ entity simulation, O(1) lookups, lock-free threading
+- **Editor Tools** — Slate UI, custom K2Nodes, property customizations, pipeline automation
+- **AI Tooling** — MCP protocol, pip packages, CI/CD, multi-platform open source
+
+## Tech
+
+`C++` `Unreal Engine 5` `Mass Entity (ECS)` `GAS` `Multiplayer/Networking` `Slate UI` `Python` `MCP Protocol` `Git` `Perforce`
+
+## Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aadeshyadav.vercel.app-blue?style=flat-square)](https://aadeshyadav.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aadeshyadav-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aadeshyadav)
+[![YouTube](https://img.shields.io/badge/YouTube-CodeFizz-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@CodeFizz)
+[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_Plus-6FDA44?style=flat-square&logo=upwork)](https://upwork.com/freelancers/~012720edace94ac932)
+[![PyPI](https://img.shields.io/badge/PyPI-unrealmcp-3775A9?style=flat-square&logo=pypi)](https://pypi.org/project/unrealmcp/)
