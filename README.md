@@ -1,127 +1,179 @@
+<!-- GitHub profile README: https://github.com/aadeshrao123 -->
+
 <div align="center">
 
-# Aadesh Yadav
+# Hi, I'm Aadesh Yadav
 
-**Lead Unreal Engine Developer** · Founder of [CodeFizz](https://codefizz.dev/)
+### Lead Unreal Engine Developer · Founder of [CodeFizz](https://codefizz.dev/)
 
-Building multiplayer games, high-performance systems, and AI tooling that actually drives the Unreal Editor.
-
-[![CodeFizz](https://img.shields.io/badge/CodeFizz-codefizz.dev-800020?style=for-the-badge&labelColor=1a1a1a)](https://codefizz.dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aadeshyadav.vercel.app-0A66C2?style=for-the-badge&labelColor=1a1a1a)](https://aadeshyadav.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aadeshyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/aadeshyadav)
-[![YouTube](https://img.shields.io/badge/YouTube-CodeFizz-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://youtube.com/@CodeFizz)
+Building multiplayer systems, high-performance UE5 tech, and AI tooling that drives the Unreal Editor for real.
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=aadeshrao123&style=flat-square&color=800020)
-![GitHub followers](https://img.shields.io/github/followers/aadeshrao123?style=flat-square&color=D4AF37&label=followers)
-![Unreal-MCP stars](https://img.shields.io/github/stars/aadeshrao123/Unreal-MCP?style=flat-square&color=3775A9&label=Unreal-MCP%20stars)
+[![CodeFizz](https://img.shields.io/badge/CodeFizz-codefizz.dev-800020?style=for-the-badge&labelColor=0d1117)](https://codefizz.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aadeshyadav.vercel.app-238636?style=for-the-badge&labelColor=0d1117)](https://aadeshyadav.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aadeshyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aadeshyadav)
+[![YouTube](https://img.shields.io/badge/YouTube-CodeFizz-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@CodeFizz)
+[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d1117)](https://upwork.com/freelancers/~012720edace94ac932)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=720&lines=Lead+Unreal+Engine+Developer;CodeFizz+%7C+AI+for+UE5;C%2B%2B+%C2%B7+GAS+%C2%B7+Multiplayer+%C2%B7+Mass+Entity;Open+source+%2B+product+builder" alt="Typing headline" />
 
 </div>
 
 ---
 
-## About
+## About me
 
-I am a **Lead Unreal Engine Developer** with **5+ years** shipping gameplay, multiplayer, and editor tooling in C++ and UE5.
+I'm a **Lead Unreal Engine Developer** with **5+ years** shipping gameplay, multiplayer networking, and editor tooling in **C++ / UE5**.
 
-Currently **Lead Unreal Engine Developer at Vaporware Games** (remote, USA). Before that: gameplay and systems work across studios and freelance (including **Top Rated Plus** on Upwork, **200+** completed jobs, **100%** job success).
+Right now I lead systems work at **Vaporware Games** (USA, remote). I also run **[CodeFizz](https://codefizz.dev/)** - a commercial AI + Unreal product that lets Claude, Cursor, Gemini, and other agents control the editor.
 
-I also build **CodeFizz** - commercial AI infrastructure that lets Claude, Cursor, Gemini, and other agents control Unreal Engine 5 from the outside.
+Previously: studio work at **Pixis** and **Mavex**, plus **Upwork Top Rated Plus** (200+ jobs, 100% success) and **Fiverr Top Rated**.
 
-**Focus areas**
+**What I care about**
 
 - Gameplay Ability System (GAS), combat, movement, locomotion
-- Multiplayer: dedicated servers, replication, prediction, EOS
-- High-performance Mass Entity (ECS) simulation
+- Dedicated servers, prediction, reconciliation, EOS
+- **Mass Entity Framework** / high entity-count simulation
 - Editor tools (Slate, K2Nodes, pipelines)
-- AI + MCP bridges for the UE editor
+- AI bridges (MCP + CLI) into Unreal
 
 ---
 
-## Featured products
+## Live dashboard
 
-### [CodeFizz](https://codefizz.dev/) - AI assistant for Unreal Engine 5
+<div align="center">
 
-Commercial plugin + CLI that connects any MCP client to a live UE5 editor.
+<a href="https://github.com/aadeshrao123">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadeshrao123&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=800020&text_color=c9d1d9&ring_color=800020" alt="GitHub stats" />
+</a>
+&nbsp;
+<a href="https://github.com/aadeshrao123">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshrao123&theme=github-dark-blue&hide_border=true&background=0d1117&ring=800020&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/aadeshrao123">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshrao123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" alt="Top languages" />
+</a>
+&nbsp;
+<a href="https://github.com/aadeshrao123/Unreal-MCP">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=aadeshrao123&repo=Unreal-MCP&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=800020&text_color=c9d1d9" alt="Unreal-MCP pin" />
+</a>
+
+</div>
+
+---
+
+## Featured: [CodeFizz](https://codefizz.dev/)
+
+<div align="center">
+
+### The AI assistant for Unreal Engine 5
+
+[![Open CodeFizz](https://img.shields.io/badge/Open-codefizz.dev-800020?style=for-the-badge&labelColor=0d1117)](https://codefizz.dev/)
+[![Docs](https://img.shields.io/badge/Docs-codefizz.dev%2Fdocs-238636?style=for-the-badge&labelColor=0d1117)](https://codefizz.dev/docs)
+[![Unreal-MCP OSS](https://img.shields.io/badge/Open_Source-Unreal--MCP-3775A9?style=for-the-badge&labelColor=0d1117)](https://github.com/aadeshrao123/Unreal-MCP)
+
+</div>
 
 | | |
-|---|---|
-| **Site** | [codefizz.dev](https://codefizz.dev/) |
-| **What it does** | Drive Blueprints, Materials, Niagara, PCG, StateTree, data assets, Insights, and more from AI |
-| **Scale** | **500+** editor commands · UE **5.6 / 5.7 / 5.8** · Win64 |
-| **Workflow** | Install plugin → `cfa login` → prompt your AI · Free 3-day trial |
+|:--|:--|
+| **Product** | Commercial plugin + `cfa` CLI - AI agents control a live UE5 editor |
+| **Coverage** | Blueprints · Materials · Niagara · PCG · StateTree · data · Insights · more |
+| **Scale** | **500+** commands · UE **5.6 / 5.7 / 5.8** · Win64 · free 3-day trial |
+| **Flow** | Install → `cfa login` → prompt Claude / Cursor / Gemini / any MCP client |
 
 ```text
-You:  make a stylized water material with waves, foam, parameters...
-AI:   builds it live in the editor via CodeFizz (materials, nodes, WPO, clamps)
+You  →  "build a stylized water material with waves, foam, parameters..."
+AI   →  drives the editor through CodeFizz (nodes, WPO, clamps, categories)
 ```
 
-Open-source community bridge (related): **[Unreal-MCP](https://github.com/aadeshrao123/Unreal-MCP)** · [PyPI `unrealmcp`](https://pypi.org/project/unrealmcp/)
+Related open source (community bridge): [**Unreal-MCP**](https://github.com/aadeshrao123/Unreal-MCP) · [PyPI `unrealmcp`](https://pypi.org/project/unrealmcp/)
 
 ---
 
-### Shipped: [Radiant Arena](https://store.epicgames.com/en-US/p/radiantrealm-d45753)
+## Factory automation (UE5)
 
-Competitive arena title on the **Epic Games Store**.
+Large-scale **factory automation** game in **Unreal Engine 5** (Factorio / Satisfactory style systems).
 
-Built the multiplayer core:
+| System | Approach |
+|:--|:--|
+| **Simulation** | **Mass Entity Framework (ECS)** for huge entity counts |
+| **Logistics** | Conveyors, manufacturing chains, factory flow |
+| **Power** | Grid / resource networks |
+| **Networking** | Multiplayer with **dedicated server** support |
+| **Performance** | Data-oriented design, scalable simulation loops |
 
-- Epic Online Services (lobby + matchmaking)
-- Dedicated server architecture
-- GAS ability networking + client-side prediction
-- Combat replication and anti-cheat foundations
-
----
-
-### In progress: **Jiggi**
-
-Factory automation game (Factorio / Satisfactory DNA) in **UE5**.
-
-- Mass Entity Framework for large-scale simulation
-- Conveyors, power, manufacturing chains
-- Multiplayer with dedicated server support
+Built for the kind of problems where naive actor spam dies - **Mass** + careful multiplayer architecture.
 
 ---
 
-## Experience (snapshot)
+## Experience
 
-| Role | Org | Notes |
-|------|-----|--------|
+| Role | Company | |
+|:--|:--|:--|
 | **Lead Unreal Engine Developer** | Vaporware Games | Current · USA remote · gameplay + multiplayer leadership |
 | **Unreal Engine Developer** | Pixis | Game systems, networking, pipelines · Bengaluru |
 | **Senior Game Developer** | Mavex Entertainments | GAS, combat, locomotion, tooling · Hyderabad |
 
-Freelance: **Upwork Top Rated Plus** · **Fiverr Top Rated** · 200+ projects
+**Freelance:** Upwork Top Rated Plus · Fiverr Top Rated · 200+ completed projects  
 
-Education: **University of Delhi** · BA (Hons) Political Science
-
----
-
-## What I build day to day
-
-```text
-Gameplay     C++ systems, GAS, combat, movement feel
-Multiplayer  Dedicated servers, prediction, reconciliation, EOS
-ECS          Mass Entity, high entity counts, lock-friendly design
-Tools        Slate UI, custom K2Nodes, asset factories, validation
-AI tooling   MCP bridges, CLIs, editor automation, open source + product
-```
-
-**Stack**
-
-`C++` `Unreal Engine 5` `GAS` `Mass Entity` `Multiplayer` `Slate` `Python` `Go` `MCP` `Git` `Perforce`
+**Education:** University of Delhi · BA (Hons) Political Science
 
 ---
 
-## Open source & selected repos
+## Stack
 
-| Project | What it is |
-|---------|------------|
-| [**Unreal-MCP**](https://github.com/aadeshrao123/Unreal-MCP) | AI bridge for UE5 (CLI + MCP + editor plugin). Hundreds of commands for materials, BP, Niagara, StateTree, profiling, and more |
-| [**Focuser**](https://github.com/aadeshrao123/Focuser) | Open-source site/app blocker + Pomodoro focus tool (Rust / cross-platform) |
-| [**AsyncActionProject**](https://github.com/aadeshrao123/AsyncActionProject) | Custom async Blueprint actions / delay patterns in UE |
-| [**GAS_RPG**](https://github.com/aadeshrao123/GAS_RPG) | RPG sample exploring GAS combat and abilities |
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logoColor=white)
+
+`GAS` · `Mass Entity (ECS)` · `Multiplayer / EOS` · `Slate` · `MCP` · `Editor tooling` · `CI/CD`
+
+</div>
+
+---
+
+## Selected open source
+
+<div align="center">
+
+| Repo | Focus |
+|:--|:--|
+| [**Unreal-MCP**](https://github.com/aadeshrao123/Unreal-MCP) | AI bridge for UE5 - CLI, MCP server, editor plugin |
+| [**Focuser**](https://github.com/aadeshrao123/Focuser) | Open-source focus / blocker tooling |
+| [**AsyncActionProject**](https://github.com/aadeshrao123/AsyncActionProject) | Custom async Blueprint actions in UE |
+| [**GAS_RPG**](https://github.com/aadeshrao123/GAS_RPG) | RPG exploration of GAS combat & abilities |
+
+</div>
+
+---
+
+## Contribution snake
+
+<div align="center">
+
+<!-- Generated daily by .github/workflows/snake.yml → branch `output` -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadeshrao123/aadeshrao123/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadeshrao123/aadeshrao123/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/aadeshrao123/aadeshrao123/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadeshrao123&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=800020&line=D4AF37&point=D4AF37" alt="Contribution activity graph" width="100%" />
+
+</div>
 
 ---
 
@@ -129,32 +181,15 @@ AI tooling   MCP bridges, CLIs, editor automation, open source + product
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **CodeFizz** | [codefizz.dev](https://codefizz.dev/) |
-| **Portfolio** | [aadeshyadav.vercel.app](https://aadeshyadav.vercel.app/) |
-| **LinkedIn** | [linkedin.com/in/aadeshyadav](https://linkedin.com/in/aadeshyadav) |
-| **YouTube** | [youtube.com/@CodeFizz](https://youtube.com/@CodeFizz) |
-| **Upwork** | [Top Rated Plus profile](https://upwork.com/freelancers/~012720edace94ac932) |
-| **PyPI** | [unrealmcp](https://pypi.org/project/unrealmcp/) |
-| **Itch** | [sleepingtoast.itch.io](https://sleepingtoast.itch.io) |
-| **Email** | aadeshrao80@gmail.com |
+[![CodeFizz](https://img.shields.io/badge/Product-CodeFizz-800020?style=for-the-badge&labelColor=0d1117)](https://codefizz.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-238636?style=for-the-badge&labelColor=0d1117)](https://aadeshyadav.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aadeshyadav)
+[![YouTube](https://img.shields.io/badge/YouTube-CodeFizz-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@CodeFizz)
+[![Upwork](https://img.shields.io/badge/Hire-Top_Rated_Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d1117)](https://upwork.com/freelancers/~012720edace94ac932)
+[![PyPI](https://img.shields.io/badge/PyPI-unrealmcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0d1117)](https://pypi.org/project/unrealmcp/)
 
 <br/>
 
-[![CodeFizz](https://img.shields.io/badge/Product-CodeFizz-800020?style=flat-square)](https://codefizz.dev/)
-[![Unreal MCP](https://img.shields.io/badge/Open_Source-Unreal--MCP-3775A9?style=flat-square&logo=unrealengine&logoColor=white)](https://github.com/aadeshrao123/Unreal-MCP)
-[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_Plus-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~012720edace94ac932)
-[![PyPI](https://img.shields.io/badge/PyPI-unrealmcp-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/unrealmcp/)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>
-Lead Unreal · Multiplayer · Editor tools · AI for game devs · Built with C++ and too much coffee
-</sub>
+<sub>Lead Unreal · Multiplayer · Mass Entity · Editor tools · AI for game devs</sub>
 
 </div>
